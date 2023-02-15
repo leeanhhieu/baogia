@@ -1,0 +1,33 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+
+
+h2 { color: black;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+h3 { 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    box-sizing: border-box;
+    font-style: italic;
+    font-size: 16px!important;
+    line-height: 1.5;
+    
+
+
+
+}
+
+
+
+
